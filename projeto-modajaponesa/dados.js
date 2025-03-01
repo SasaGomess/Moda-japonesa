@@ -21,7 +21,7 @@ let dados = [
     descricao : "O Visual-kei é um estilo musical e visual japonês, conhecido por suas roupas extravagantes, maquiagens andróginas e cabelos coloridos. É um estilo que combina elementos góticos, punk e glam rock. É um movimento de subcultura que surgiu no Japão durante os anos 80 e consiste em uma construção visual inspirada por gêneros como punk, o glam metal e gothic-rock muitas vezes misturados à indumentária tradicional japonesa. Musicalmente é impossível defini-lo sem cometer falhas, já que assim como suas inspirações, os gêneros musicais explorados também são diversos. No Brasil o auge do Visual Kei ocorreu no início dos anos 2000, quando não só os eventos de anime estavam tomados por cosplayers dos músicos japoneses mais populares, covers se tornaram atração principal nessas feiras e até mesmo algumas das principais bandas do movimento passaram por aqui.",
     link : "https://universojapanesemusic.com/2024/09/03/visual-kei-seus-estilos-e-subgeneros/",
     tags: "Rock melancolico punk alternativo tokyo visual visualkei homem masculino chocker",
-    imagem: "imagens/visualkei.png",
+    imagem: "imagens/visualkei.PNG",
 }, 
 {
     titulo : "Decora kei",
