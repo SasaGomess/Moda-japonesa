@@ -19,4 +19,4 @@ Subculturas japonesas são grupos de pessoas que compartilham valores e caracter
 * CSS - Utilizei para dar à página um visual autêntico e moderno, utilizando elementos flexbox para maior controle de distribuição de espaço dos itens!
 
 __Você pode conferir meu projeto aqui 👉🏽:__ 
-[modajaponesa](moda-japonesaa.vercel.app/)
+[modajaponesa](https://moda-japonesaa.vercel.app/)
